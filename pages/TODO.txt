@@ -1,0 +1,5 @@
+https://github.com/suncoastlug/upset/blob/master/share/template/hack.tt
+https://github.com/suncoastlug/upset/blob/master/share/template/history.tt
+https://github.com/suncoastlug/upset/blob/master/share/template/index.tt
+https://github.com/suncoastlug/upset/blob/master/share/template/lists.tt
+https://github.com/suncoastlug/upset/blob/master/share/template/treasury.tt
