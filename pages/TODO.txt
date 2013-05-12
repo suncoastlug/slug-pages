@@ -1,5 +1,12 @@
-https://github.com/suncoastlug/upset/blob/master/share/template/hack.tt
-https://github.com/suncoastlug/upset/blob/master/share/template/history.tt
-https://github.com/suncoastlug/upset/blob/master/share/template/index.tt
-https://github.com/suncoastlug/upset/blob/master/share/template/lists.tt
-https://github.com/suncoastlug/upset/blob/master/share/template/treasury.tt
+* /page/hack.md
+	- /page/meetings.html
+* /page/history.md
+	? /page/anderson.html
+	? /page/cts2.html
+* /page/index.md
+	- /page/contact.html
+* /page/lists.md
+	- /page/listrules.html
+* /page/treasury.md
+* /page/listrules.md
+* /page/meetings.md

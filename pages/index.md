@@ -1,0 +1,15 @@
+<a name="what-slug"></a>
+What is SLUG?
+=============
+
+<div class="block">
+The Suncoast Linux Users Group (affectionately known as SLUG) is a
+loose-knit informal group of Linux users and enthusiasts in West Central
+Florida (the Suncoast/Greater Tampa Bay area). Our purpose is to provide
+mutual support and assistance for Linux users in the area, and to
+promote the use of Linux to others. If you've used or are using Linux,
+are curious about it, want to join the group, or just have comments,
+[contact us][contact-us]
+</div>
+
+  [contact-us]: /pages/contact.html
