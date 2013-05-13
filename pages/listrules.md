@@ -1,5 +1,4 @@
-The Rules
-=========
+# The Rules
 
 **Note:** reply headers for SLUG lists are *munged*. This means
 that, among other things, they insert the names of the lists on
@@ -10,8 +9,7 @@ what we believe are very good reasons. Please don't argue the point
 with us.
 
 
-A Note About Challenge-Response Systems
----------------------------------------
+## A Note About Challenge-Response Systems
 
 A recent development on the internet is
 *challenge-response email systems*. These are systems to prevent
@@ -44,18 +42,20 @@ accept your challenge emails. Which we won't. To you, the list will
 simply go dark.
 
 
-Netiquette
-----------
+## Netiquette
 
 Netiquette is the internet's version of manners. As on the rest of
 the internet, netiquette applies here as well. Netiquette links are
 as follows:
--   [http://www.albion.com/netiquette/corerules.html](http://www.albion.com/netiquette/corerules.html)
--   [http://www.primenet.com/\~vez/neti.html](http://www.primenet.com/~vez/neti.html)
--   [http://www.albion.com/netiquette/index.html](http://www.albion.com/netiquette/index.html)
+
+-   [http://www.albion.com/netiquette/index.html][albion.com-index]
+-   [http://www.albion.com/netiquette/corerules.html][albion.com-core]
+-   [http://www.primenet.com/~vez/neti.html][primenet.com]
 
 The following is the mailing list charter, mailed monthly to the
 SLUG list.
+
+```
     To: slug@nks.net
     From: paulf@quillandmouse.com
     Subject: Mailing List Policies
@@ -146,3 +146,8 @@ SLUG list.
     If you believe you have been treated unfairly by the list admin, you may
     appeal to the SLUG president. He will get both sides of the story and make
     a decision on the matter, which is final.
+```
+
+[albion.com-index]: http://www.albion.com/netiquette/index.html
+[albion.com-core]: http://www.albion.com/netiquette/corerules.html
+[primenet.com]: http://www.primenet.com/~vez/neti.html

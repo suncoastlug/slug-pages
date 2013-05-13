@@ -1,8 +1,9 @@
-<a name="1997-08"></a>
-August 1997
-===========
+<a name="slug-history"></a>
+# SLUG History
 
-<div class="block">
+<a name="1997-08"></a>
+## August 1997
+
 In August 1997, Henry White, Paul Foster, Ed Centanni and a few others
 were looking for a local Linux group in the Tampa Bay area. Paul put his
 name up on the GLUE (Groups of Linux Users Everywhere) site,
@@ -19,14 +20,11 @@ website.
 
 By the end of August 1997, SLUG had twenty members and a full-featured
 website.
-</div>
 
 
 <a name="1997-10"></a>
-October 1997
-============
+## October 1997
 
-<div class="block">
 In October of 1997, based on Ed Centanni's suggestion, Paul Foster
 organized the first SLUG meeting at Chili's in Clearwater. It was a
 rainy day in late October, the day of the first ever USF homecoming
@@ -35,76 +33,58 @@ start.
 
 Soon thereafter, Martin Randal joined the group and offered his services
 as listmaster; now SLUG had a mailing list!
-</div>
 
 
 <a name="1997-12"></a>
-December 1997
-=============
+## December 1997
 
-<div class="block">
 Martin Randal organized a stable meeting place and site for installfests
 at Thomas Jefferson High School in Tampa on the second Wednesday of each
 month. We held our first installfest at TJHS on 10 December 1997.
 
 By the end of the 1997, SLUG had 66 members!
-</div>
 
 
 <a name="1998-05"></a>
-May 1998
-========
+## May 1998
 
-<div class="block">
 In May of 1998, Bob Kindle negotiated with the Dunedin Public Library to
 allow us to hold Saturday meetings there. The first was held on the 23rd
 of May 1998 (Memorial Day weekend). Four SLUGs attended due to the
 holiday and under-promotion. But since then the number at the Dunedin
 meetings has been similar to that in Tampa.
-</div>
 
 
 <a name="1998-12"></a>
-December 1998
-=============
+## December 1998
 
-<div class="block">
 Henry White, long wishing to pass on the leadership of SLUG to someone
 else, presided over elections for new officers. Paul M. Foster was
 elected President, and Paul Braman (our longtime meeting organizer) was
 elected Vice President for Meetings. The "election" was the quickest in
 history. "Foster wants to do this and Braman wants to do that. Any
 objections? Done!"
-</div>
 
 
 <a name="1999-01"></a>
-January 1999
-============
+## January 1999
 
-<div class="block">
 SLUG became a GLUE (Groups of Linux Users Everywhere) member, and
 received a "care package" of goodies from SSC (publishers of Linux
 Journal and sponsors of GLUE). We also had our first outside presenter,
 and created the SLUG Lending Library for users to borrow distributions
 and software between meetings.
-</div>
 
 
 <a name="1999-02"></a>
-February 1999
-=============
+## February 1999
 
-<div class="block">
 SLUG welcomes its 200th member!
-</div>
 
 
 <a name="1999-05"></a>
-May 1999
-========
+## May 1999
 
-<div class="block">
 An online dispute between some members and the list sponsor/admin causes
 the list to go dark one Sunday afternoon. After three days of frantic
 effort, Russ Herrold of the Central Ohio Linux Users Group (COLUG)
@@ -116,25 +96,19 @@ invited to participate in the ITEC show at the Tampa Convention Center.
 But we're invited too late, and end up with a auditorium under the
 stairwell, not a booth on the show floor. Traffic is dismal, and overall
 the effort is wasted.
-</div>
 
 
 <a name="1999-07-24"></a>
-24 July 1999
-============
+## 24 July 1999
 
-<div class="block">
 Our first big-name presenter appears! [Stuart Anderson][stuart-anderson]
 of Metro Link gave a talk about the
 [Linux Standard Base project][linux-standard-base].
-</div>
 
 
 <a name="1999-08"></a>
-August 1999
-===========
+## August 1999
 
-<div class="block">
 SLUG acquires its own domain name: [SuncoastLUG.org][suncoastlug]! Thanks
 to Mark Bishop (a SLUG member in absentia) for doing the registration,
 and Terry Mackintosh for hosting the domain.
@@ -144,49 +118,37 @@ Greater Tampa Bay PC Users Group. The presentation was well received,
 and they were invited back.
 
 SLUG welcomes its three hundredth member!
-</div>
 
 
 <a name="2000-01"></a>
-January 2000
-============
+## January 2000
 
-<div class="block">
 SLUG survives the Y2K bug (along with everyone else) and acquires a
 separate List Admin, a new Event Coordinator, and an Expansion Director
 (Marketing/PR person). Q & A sessions at every meeting are instituted,
 and presentations are scheduled for most meetings. Paul Braman opts out
 as Event/Meeting Coordinator.
-</div>
 
 
 <a name="2000-03"></a>
-March 2000
-==========
+## March 2000
 
-<div class="block">
 SLUG moves its website and domain name to one of Owl River Company's
 hosts. These are the same people who have hosted the lists for almost a
 year.
-</div>
 
 
 <a name="2000-08"></a>
-August 2000
-===========
+## August 2000
 
-<div class="block">
 After one too many flamefests, the SLUG Politics list is inaugurated.
 The purpose of the list is to defuse sensitive threads and provide an
 outlet for the more politically active SLUG members.
-</div>
 
 
 <a name="2000-09"></a>
-September 2000
-==============
+## September 2000
 
-<div class="block">
 SLUG is asked to man a booth at the Computer and Technology Showcase at
 the Tampa Convention Center on the 27th and 28th. Thanks to the efforts
 of Bill Preece, Diana Lenko, Norb Cartagena, Tim Jones, Curt Johnson, Ed
@@ -196,14 +158,11 @@ Linux, Andover and others make presentations. This is a sharp contrast
 to the ITEC show in May of 1999.
 
 SLUG has over 400 members.
-</div>
 
 
 <a name="2001-03"></a>
-March 2001
-==========
+## March 2001
 
-<div class="block">
 Bylaws are amended and "splinter groups" are eliminated. Instead,
 leaders of meetings other than Tampa and Dunedin meetings become
 officers of the group. They get a full vote on group matters, and their
@@ -212,26 +171,20 @@ announced.
 
 Q & A sessions at Tampa and Dunedin meetings are discontinued, as they
 quickly go out of control and degrade into group discussions.
-</div>
 
 
 <a name="2001-04"></a>
-April 2001
-==========
+## April 2001
 
-<div class="block">
 A four day list outage occurs on the Owl River Company list host. After
 a local company-- Networked Knowledge Systems (NKS)-- offers to host the
 lists, they are moved to NKS hosts. The SLUG website continues to reside
 on an Owl River Company host.
-</div>
 
 
 <a name="2001-05"></a>
-May 2001
-========
+## May 2001
 
-<div class="block">
 SLUG participates in its second [CTS Expo][cts-expo], with a 20'x40' booth and
 "Linux Pavilion", this time at the Harborview in Clearwater. This
 coincided with the launch of Microsoft's Office XP, and as before, we
@@ -241,166 +194,120 @@ speaker, and we had a couple of run-ins with Microsoft people.
 For a more complete rundown, check out the [CTS Expo][cts-expo].
 
 Sarasota meetings are started.
-</div>
 
 
 <a name="2001-08-10"></a>
-10 August 2001
-==============
+## 10 August 2001
 
-<div class="block">
 Linux Tenth Anniversary Picnic takes place at Lowry Park in Tampa.
-</div>
 
 
 <a name="2001-10-17-18"></a>
-17 - 18 October 2001
-====================
+## 17 - 18 October 2001
 
-<div class="block">
 Our third CTS Expo, held at the Tampa Convention Center. This was barely
 a month after the terrorist attacks of 11 September 2001, so attendance
 was off and several exhibitors had backed out of the show. We hosted the
 Melbourne LUG and IDEAL Corporation in our booth.
-</div>
 
 
 <a name="2002-11"></a>
-November 2002
-=============
+## November 2002
 
-<div class="block">
 A SLUG member (Aaron Steimle) finally starts up a St Petersburg meeting.
-</div>
 
 
 <a name="2003-01-05"></a>
-5 January 2003
-==============
+## 5 January 2003
 
-<div class="block">
 Two members of SLUG, not content with the policies of SLUG and their
 treatment by SLUG members, start their own LUG as an *alternative* to
 SLUG: [FLALUG][].
-</div>
 
 
 <a name="2003-11"></a>
-November 2003
-=============
+## November 2003
 
-<div class="block">
 Due to lingering site outages, the SLUG website is moved to an alternate
 local hosting service, Networked Knowledge Systems (NKS).
-</div>
 
 
 <a name="2003-12-17-18"></a>
-17 - 18 December 2003
-=====================
+## 17 - 18 December 2003
 
-<div class="block">
 Bill Preece and his helpers again pull off a great tech show, this time
 the Biz2Expo at the Tampa Convention Center.
-</div>
 
 
 <a name="2004-10-12"></a>
-12 October 2004
-===============
+## 12 October 2004
 
-<div class="block">
 Mario Lombardo volunteers to lead the Tampa meetings, currently held at
 Hillsborough Community College, taking over for Paul Foster.
-</div>
 
 
 <a name="2005-09-10"></a>
-10 September 2005
-=================
+## 10 September 2005
 
-<div class="block">
 *Software Freedom Day* was celebrated at both MOSI (Museum of Science
 and Industry) in Tampa, and Books A Million in Bradenton. SLUG members
 organized these events on their own and gave out quite a few Linux CDs.
-</div>
 
 
 <a name="2006-09-16"></a>
-16 September 2006
-=================
+## 16 September 2006
 
-<div class="block">
 Jonathon Conte again spearheaded *Software Freedom Day* events at MOSI
 and Mirta's Coffee House in Tampa. Over 700 CDs were given away at these
 highly successful events.
-</div>
 
 
 <a name="2007-06-07"></a>
-7 June 2007
-===========
+## 7 June 2007
 
-<div class="block">
 Citing falling attendance and lack of meaningful participation, Bill
 Preece conducted the last Brandon meeting on this date. Bill is thanked
 for 8+ years of faithfully running this meeting.
-</div>
 
 
 <a name="2007-06-26"></a>
-26 June 2007
-============
+## 26 June 2007
 
-<div class="block">
 Due to lack of attendance and inability to find a willing meeting
 coordinator, Sarasota meetings are dropped.
-</div>
 
 
 <a name="2007-10-06"></a>
-6 October 2007
-==============
+## 6 October 2007
 
-<div class="block">
 Due to lack of attendance, New Port Richey meetings are dropped.
-</div>
 
 
 <a name="2008-04-18"></a>
-18 April 2008
-=============
+## 18 April 2008
 
-<div class="block">
 Bill Davison volunteers to lead the Tampa meetings, currently held at
 Hillsborough Community College, taking over for Mario Lombardo.
-</div>
 
 
 <a name="2010-06"></a>
-June 2010
-=========
+## June 2010
 
-<div class="block">
 Paul Foster resigned as president, and Dylan Hardison was elected the
 new president through the SLUG mailing list.
 
 At the same time, PUP ([Pinellas Unix People][pup]) joined
 with SLUG.
-</div>
 
 
 <a name="2010-09"></a>
-September 2010
-==============
+## September 2010
 
-<div class="block">
 Bill Davison volunteers for the new Treasurer of SLUG
-</div>
 
-  [stuart-anderson]: /pages/anderson.html
-  [linux-standard-base]: /pages/anderson.html#linux-standard-base
-  [cts-expo]: /pages/cts2.html
-  [suncoastlug]: http://www.suncoastlug.org
-  [FLALUG]: http://www.flalug.org
-  [pup]: http://unix-people.org
+[stuart-anderson]: /pages/anderson.html
+[linux-standard-base]: /pages/anderson.html#linux-standard-base
+[cts-expo]: /pages/cts2.html
+[suncoastlug]: http://www.suncoastlug.org
+[FLALUG]: http://www.flalug.org
+[pup]: http://unix-people.org
