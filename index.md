@@ -1,12 +1,16 @@
-<a name="whats-slug"></a>
-# What is SLUG?
+<a name="about"></a>
+# Suncoast Linux Users Group
 
-The Suncoast Linux Users Group (affectionately known as SLUG) is a
-loose-knit informal group of Linux users and enthusiasts in West Central
-Florida (the Suncoast/Greater Tampa Bay area). Our purpose is to provide
-mutual support and assistance for Linux users in the area, and to
-promote the use of Linux to others. If you've used or are using Linux,
-are curious about it, want to join the group, or just have comments,
-[contact us][contact-us].
+SLUG is Tampa Bay's oldest continuously active Linux User Group
+supporting all things Linux and Open Source in the greater Tampa Bay area.
+Members are Linux enthusiasts who come to the general meetings, hacking sessions,
+or subscribe to our mailing list, join our Meetup group, and/or participate in
+keysignings and other SLUG events.  Meetings are free and open to the public.
+General meetings take place on the second and third wednesdays of every month.
 
-[contact-us]: /pages/contact.html
+Meetings are announced on the SLUG-Announce mailing list, [Meetup][meetup],
+[Facebook][facebook], and [IRC][irc].
+
+[meetup]: http://meetup.suncoastlug.org
+[facebook]: https://www.facebook.com/groups/slug.fl/
+[irc]: /pages/irc.html
