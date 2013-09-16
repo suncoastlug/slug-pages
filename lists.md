@@ -142,7 +142,7 @@ maintainer at [listadmin@suncoastlug.org][list-administrator].
 [list-instructions]: #list-instructions
 [list-subscribe-unsubscribe]: #list-subscribe-unsubscribe
 [list-problems]: #list-problems
-[list-rules]: /pages/listrules.html
+[list-rules]: /page/listrules.html
 [list-administrator]: mailto:listadmin@suncoastlug.org
 [slug-list-mail]: http://suncoastlug.org/pipermail/slug
 [slug-list-info]: http://suncoastlug.org/cgi-bin/mailman/listinfo/slug
