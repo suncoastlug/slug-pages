@@ -129,7 +129,7 @@ some reason, use the web interface:
 - [SLUG Politics][slug-politics-list-info]
 
 
-<a name="problems"></a>
+<a name="list-problems"></a>
 ## Problems or Comments
 
 If you have problems or comments about the list, you may email the list
