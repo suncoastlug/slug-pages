@@ -305,9 +305,9 @@ with SLUG.
 
 Bill Davison volunteers for the new Treasurer of SLUG
 
-[stuart-anderson]: /pages/anderson.html
-[linux-standard-base]: /pages/anderson.html#linux-standard-base
-[cts-expo]: /pages/cts2.html
+[stuart-anderson]: /page/anderson.html
+[linux-standard-base]: /page/anderson.html#linux-standard-base
+[cts-expo]: /page/cts2.html
 [suncoastlug]: http://www.suncoastlug.org
 [FLALUG]: http://www.flalug.org
 [pup]: http://unix-people.org
