@@ -14,6 +14,7 @@ free!
 ***
 
 
+<a name="to-bring"></a>
 ## What to bring
 
 If you're coming to install Linux on your computer, there are a few
@@ -37,6 +38,7 @@ things you should bring with you:
 - Patience and a sense of humor!
 
 
+<a name="to-do"></a>
 ## What to do before you come
 
 Along with the items you should bring for installing Linux, there are
@@ -55,6 +57,7 @@ some details you should take care of before you come:
   gigs of hard drive space.
 
 
+<a name="warning"></a>
 ## Warning!
 
 While we will help you all we can, we cannot guarantee that the

@@ -10,6 +10,7 @@ what we believe are very good reasons. Please don't argue the point
 with us.
 
 
+<a name="challenge-response"></a>
 ## A Note About Challenge-Response Systems
 
 A recent development on the internet is
@@ -43,6 +44,7 @@ accept your challenge emails. Which we won't. To you, the list will
 simply go dark.
 
 
+<a name="netiquette"></a>
 ## Netiquette
 
 Netiquette is the internet's version of manners. As on the rest of
