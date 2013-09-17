@@ -9,9 +9,11 @@ interest to the Linux community. And you can enjoy the company of others
 who are interested in the same thing you are-- Linux. The cost? It's
 free!
 
-***
+---
+
 ### Click [HERE][calendar] for meeting calendar
-***
+
+---
 
 
 <a name="to-bring"></a>
@@ -99,6 +101,6 @@ installing and configuring Linux, X, or anything else.
 ### Directions
 
 
-[calendar]: /pages/calendar.html
+[calendar]: /page/calendar.html
 [mail-bill-davison]: mailto:skkonn@gmail.com
 [mail-dylan-hardison]: mailto:

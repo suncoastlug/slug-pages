@@ -1,8 +1,7 @@
 <a name="top"></a>
 # Hacking Session
 
-The next hacking session is **December 10th, 2011** at Panera Bread near
-bardmoor. See the [meetings][] page for details.
+For the next event see the [meetings][] page for details.
 
 
 <a name="synopsis"></a>
@@ -39,12 +38,12 @@ Teams should make some reasonable effort not to duplicate the same work
 as another team. Multiple "solutions" to the same problem are accept
 (and perhaps expected) so long as a different language/toolset is used.
 
-1.  Team Upset <small>*(perl)*</small>
+1.  Team Upset *<small>(perl)</small>*
     -   Dylan William Hardison
     -   Christian Brink
     -   Robert deSimone
 
-2.  Team PHPaaSA
+2.  Team PHPaaSA *<small>(php)</small>*
     -   Sam Likins
 
-[meetings]: /pages/meetings.html
+[meetings]: /page/meetings.html

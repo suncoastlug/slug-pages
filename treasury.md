@@ -20,7 +20,7 @@ Tampa FL 33629
 non-profit corporation under Florida law. Bear that in mind when making
 donations.
 
-***
+---
 
-<iframe width="100%" height="100%" frameborder="0" src="https://spreadsheets.google.com/a/unix-people.org/ccc?key=0AhnN6APggaW2dG1iNTY0bnVheVUxODlLS3VDRTBicFE&amp;output=html&amp;chrome=false&amp;widget=true&amp;hl=en">
+<iframe style="height: 400px; width: 100%;" frameborder="0" src="https://spreadsheets.google.com/a/unix-people.org/ccc?key=0AhnN6APggaW2dG1iNTY0bnVheVUxODlLS3VDRTBicFE&amp;output=html&amp;chrome=false&amp;widget=true&amp;hl=en">
 Loading...</iframe>

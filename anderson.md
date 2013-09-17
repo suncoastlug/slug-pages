@@ -37,7 +37,7 @@ binary interfaces so if a program conforms to this it will run across any of the
 other, then, flavors of SVR4. The LSB is just trying to do the same thing but
 for Linux. There are a lot of things that are a little bit different because
 Linux is not commercial vendors who can afford to work on things and the
-motivations are all different, but it's still bascially the same problem. And as
+motivations are all different, but it's still basically the same problem. And as
 far as ISV goes it's still the same problem. They say, "Oh gosh, there's a bunch
 of different Linuxes; I'd have to port my application and test it on all of
 them." Which is the same problem that's been around for a long time. What we'd
