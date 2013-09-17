@@ -1,3 +1,4 @@
+<a name="top"></a>
 # SLUG IRC Channel
 
 The primary online meeting place for slug is irc.suncoastlug.org, port 6697

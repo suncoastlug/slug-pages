@@ -1,4 +1,4 @@
-<a name="slug-history"></a>
+<a name="top"></a>
 # SLUG History
 
 

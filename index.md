@@ -1,4 +1,4 @@
-<a name="about"></a>
+<a name="top"></a>
 # Suncoast Linux Users Group
 
 SLUG is Tampa Bay's oldest continuously active Linux User Group

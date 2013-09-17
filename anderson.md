@@ -1,3 +1,6 @@
+<a name="top"></a>
+*Stuart Anderson*
+
 The following is a talk given by Stuart Anderson to SLUG on 24 July 1999 at the
 Dunedin meeting. Stuart works for Metro Link, but is also part of Linux Standard
 Base (LSB), a group who is trying to create standards for Linux distributions.

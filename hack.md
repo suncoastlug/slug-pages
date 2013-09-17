@@ -1,4 +1,4 @@
-<a name="hacking-session"></a>
+<a name="top"></a>
 # Hacking Session
 
 The next hacking session is **December 10th, 2011** at Panera Bread near
