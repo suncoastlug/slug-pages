@@ -36,7 +36,7 @@ distros, along with a lot of other free stuff. And as always, SLUG was the hit
 of the event. We had the most lively people, having the most fun, with the most
 activity around our booth. See [here][nks-cts] for pictures.
 
-[history-2000-09]: /page/history.php#2000-09
+[history-2000-09]: /page/history.html#2000-09
 [nks]: http://www.nks.net
 [nks-cts]: http://www.nks.net/CTS/
 [li]: http://www.li.org
