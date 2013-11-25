@@ -1,6 +1,7 @@
 <a name="top"></a>
 # The Rules
 
+
 **Note:** reply headers for SLUG lists are *munged*. This means
 that, among other things, they insert the names of the lists on
 the subject lines before your subject. Likewise, we add a

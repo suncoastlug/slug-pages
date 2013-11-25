@@ -1,6 +1,7 @@
 <a name="top"></a>
 # Meetings
 
+
 The **Suncoast Linux Users Group (SLUG)** holds monthly meetings at
 several locations and times. The monthly meetings are a place where you
 can come to get help installing Linux or debugging problems with your

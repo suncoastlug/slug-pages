@@ -1,6 +1,7 @@
 <a name="top"></a>
 # Treasury
 
+
 Here's where you find out what your donations buy. Below is a detailed
 breakdown of the monies the group has received and what's been done with
 them. If you'd like to donate money to SLUG, we have a bank account. You

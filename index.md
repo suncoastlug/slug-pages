@@ -1,6 +1,7 @@
 <a name="top"></a>
 # Suncoast Linux Users Group
 
+
 SLUG is Tampa Bay's oldest continuously active Linux User Group
 supporting all things Linux and Open Source in the greater Tampa Bay area.
 Members are Linux enthusiasts who come to the general meetings, hacking sessions,

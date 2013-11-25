@@ -1,6 +1,7 @@
 <a name="top"></a>
 # SLUG IRC Channel
 
+
 The primary online meeting place for slug is irc.suncoastlug.org, port 6697
 using SSL. All connections to this 4-server IRC network require SSL and the
 server is configured to not reveal identifiable information to other users
