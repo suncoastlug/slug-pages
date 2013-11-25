@@ -1,5 +1,5 @@
 <a name="top"></a>
-*Stuart Anderson*
+#Stuart Anderson
 
 
 The following is a talk given by Stuart Anderson to SLUG on 24 July 1999 at the
