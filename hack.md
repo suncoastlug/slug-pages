@@ -2,6 +2,12 @@
 # Hacking Session
 
 
+<div style="margin: -4em auto 2ex auto; width: 370px;">
+    <div style="border: 3px solid grey;">
+        <img src="http://photos4.meetupstatic.com/photos/event/2/5/1/4/event_77289492.jpeg" style="height: 228px; margin: 2px; width: 360px;" alt="SLUG - Hacking Session">
+    </div>
+</div>
+
 For the next event see the [meetings][] page for details.
 
 
@@ -15,6 +21,13 @@ unreasonable, anything goes. However, it would be cool if you posted
 links (to mailing lists/facebook/twitter/etc) of what you did during the
 session.
 
+
+Definition: (2) hack [very common]
+
+1.  n. Originally, a quick job that produces what is needed, but not
+	well.
+2.  n. An incredibly good, and perhaps very time-consuming, piece of
+	work that produces exactly what is needed.
 
 <a name="ideas"></a>
 ## Project Ideas
