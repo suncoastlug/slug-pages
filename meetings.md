@@ -79,11 +79,13 @@ installing and configuring Linux, X, or anything else.
 
 ### Day and Time
 
+Second Wednesday of the month from 7pm - 9pm
 
 ### Location
 
+HDR - 5426 Bay Center Drive, Tampa, FL
 
-### Directions
+- Follow the signs
 
 
 <a name="pinellas"></a>
@@ -95,11 +97,13 @@ installing and configuring Linux, X, or anything else.
 
 ### Day and Time
 
+Third Wednesday of the month from 6pm - 8pm
 
 ### Location
 
+Pinellas Park Public Library - 7770 52nd Street North, Pinellas Park, FL
 
-### Directions
+- Turn left as soon as you enter the building. First meeting Room
 
 
 [calendar]: http://www.meetup.com/Suncoast-LUG/events/calendar/
