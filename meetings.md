@@ -102,6 +102,6 @@ installing and configuring Linux, X, or anything else.
 ### Directions
 
 
-[calendar]: /page/calendar.html
+[calendar]: http://www.meetup.com/Suncoast-LUG/events/calendar/
 [mail-bill-davison]: mailto:skkonn@gmail.com
-[mail-dylan-hardison]: mailto:
+[mail-dylan-hardison]: mailto:dylan@hardison.net
