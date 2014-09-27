@@ -21,11 +21,11 @@ Meetings are announced on the SLUG-Announce [mailing list][lists],
 
 
 <div style="border: 3px solid grey; float: left; margin: -4em 1ex 0 0;">
-	<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html" target="_blank">
+	<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html">
 		<img src="http://photos4.meetupstatic.com/photos/event/2/5/1/4/event_77289492.jpeg" style="height: 228px; margin: 2px; text-decoration: none; width: 360px;" alt="SLUG - Hacking Session">
 	</a>
 	<div style="background-color: rgba(0,0,0, 0.10); border-top: 2px solid grey; text-align: center;">
-		<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html" target="_blank">SLUG Hacking Session</a>
+		<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html">SLUG Hacking Session</a>
 	</div>
 </div>
 Come join your fellow geeks for an afternoon of social coding.
