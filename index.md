@@ -17,10 +17,9 @@ take place on the second and third wednesdays of every month.
 
 Meetings are announced on the SLUG-Announce [mailing list][lists],
 [Meetup][meetup], [Facebook][facebook], and [IRC][irc].
-<div style="clear: both; height: 4em;"></div>
+<div style="height: 2em;"></div>
 
-
-<div style="border: 3px solid grey; float: left; margin: -8em 1ex 0 6em;">
+<div style="border: 3px solid grey; float: left; margin-right: 1ex;">
 	<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html">
 		<img src="http://photos4.meetupstatic.com/photos/event/2/5/1/4/event_77289492.jpeg" style="height: 228px; margin: 2px; text-decoration: none; width: 360px;" alt="SLUG - Hacking Session">
 	</a>
@@ -28,6 +27,8 @@ Meetings are announced on the SLUG-Announce [mailing list][lists],
 		<a style="font-size: 85%; font-weight: bold;" href="/page/hack.html">SLUG Hacking Session</a>
 	</div>
 </div>
+<div style="clear: right; height: 2em;"></div>
+
 Come join your fellow geeks for an afternoon of social coding.
 
 *No laptop, no problem -

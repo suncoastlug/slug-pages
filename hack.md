@@ -2,7 +2,7 @@
 # Hacking Session
 
 
-<div style="margin: -4em auto 2ex auto; width: 370px;">
+<div style="margin: 0 auto 2ex auto; width: 370px;">
     <div style="border: 3px solid grey;">
         <img src="http://photos4.meetupstatic.com/photos/event/2/5/1/4/event_77289492.jpeg" style="height: 228px; margin: 2px; width: 360px;" alt="SLUG - Hacking Session">
     </div>
