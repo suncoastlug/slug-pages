@@ -50,14 +50,14 @@ Definition: (2) hack [very common]
     image to the db with the form (or to a doc directory if BLOB is a really bad
     idea).
 5.  ___FileMasters )___
-    An OpenEMR component for helping relieve a major admin issue for thousands
-    of independent rural clinics and hospitals.  Involves modifying some file
-    output, generating code to sort and collate multiple query results by
-    patient, and output the data generated to a text and pdf format.
+    An OpenEMR component for helping relieve a major administration issue for
+    thousands of independent rural clinics and hospitals.  Involves modifying
+    some file output, generating code to sort and collate multiple query results
+    by patient, and output the data generated to a text and PDF format.
 
 
-<a name="teams"></a>
-## Teams
+<a name="guidelines"></a>
+## Team Guidelines
 
 For the sake of this event, we refer to "teams", which might only have one
 member, but may also have other members. Each team must have a unique, humorous
@@ -70,18 +70,21 @@ some reasonable effort not to duplicate the same work as another team. Multiple
 different language/toolset is used.
 
 
-*   Team ___Upset___ *<small>(perl)</small>*
+<a name="teams"></a>
+## Teams
+
+*   ___Upset___ *<small>(perl)</small>*
     -   Dylan William Hardison
     -   Christian Brink
     -   Robert deSimone
 
-*   Team ___PHPaaSAW___ *<small>(php/laravel\*/js)</small>*
+*   ___PHPaaSAW___ *<small>(php/laravel\*/js)</small>*
     -   Sam Likins
 
-*   Team ___Scribblers___  *<small title="To be determined">(t.b.d.)</small>*
+*   ___Scribblers___  *<small title="To be determined">(t.b.d.)</small>*
     -   Art Eaton
 
-*   Team ___FileMasters___ *<small>(php/mysql/js)</small>*
+*   ___FileMasters___ *<small>(php/mysql/js)</small>*
     -   Art Eaton
 
 
