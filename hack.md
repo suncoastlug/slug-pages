@@ -33,9 +33,9 @@ Definition: (2) hack [very common]
 1.  An RSS Feed for the SLUG mailing list. Dylan wrote one a while ago, but it
     was sort of hacky.  Chotchki attempted to write one at the first hacking
     session but it was unreleased and unfinished.
-2.  Upset )
+2.  ___Upset )___
     A presentation/talk submission system (that could be integrated into Upset)
-3.  PHPaaSAW )
+3.  ___PHPaaSAW )___
     Tool boxes at your ready, fingers nimble, lets hack!  Design and development
     phases of the new PHPaaSA Website.  Learning about Laravel and locating
     packages to wire together.  Writing simple expressions to add pages into the
@@ -44,12 +44,12 @@ Definition: (2) hack [very common]
     to structure the relevant date and provide it upon request by the
     controllers.  Nimble fingers untie - dyslexia aside - relax, learn, and have
     fun.
-4.  Scribblers )
+4.  ___Scribblers )___
     Reusable code that acts as a signature line (usable with stylus) that can be
     integrated with OpenEMR forms or other web forms and can save the signature
     image to the db with the form (or to a doc directory if BLOB is a really bad
     idea).
-5.  File Masters )
+5.  ___FileMasters )___
     An OpenEMR component for helping relieve a major admin issue for thousands
     of independent rural clinics and hospitals.  Involves modifying some file
     output, generating code to sort and collate multiple query results by
@@ -70,18 +70,18 @@ some reasonable effort not to duplicate the same work as another team. Multiple
 different language/toolset is used.
 
 
-1.  Team Upset *<small>(perl)</small>*
+*   Team ___Upset___ *<small>(perl)</small>*
     -   Dylan William Hardison
     -   Christian Brink
     -   Robert deSimone
 
-2.  Team PHPaaSAW *<small>(php/laravel\*/js)</small>*
+*   Team ___PHPaaSAW___ *<small>(php/laravel\*/js)</small>*
     -   Sam Likins
 
-3.  Team Scribblers  *<small alt="To be determined">(t.b.d.)</small>*
+*   Team ___Scribblers___  *<small title="To be determined">(t.b.d.)</small>*
     -   Art Eaton
 
-4.  Team FileMasters *<small>(php/mysql/js)</small>*
+*   Team ___FileMasters___ *<small>(php/mysql/js)</small>*
     -   Art Eaton
 
 
